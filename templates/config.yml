@@ -1,9 +1,7 @@
 ---
-    name: Demo App
-    description: >
+    name: Test App
+    description: |
       A Demo App which does almost nothing of any practical value.
-    version: 0.0.1-rancher1
+    version: 0.0.1
     category: Toy Apps
     maintainer: Bill Armstrong <bill.r.armstrong@gmail.com>
-    license: Apache2
-    projectURL: https://github.com/Llibyddap/rancher-catalog
