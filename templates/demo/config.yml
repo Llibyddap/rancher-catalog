@@ -1,7 +1,6 @@
----
-    name: Test App
-    description: |
-      A Demo App which does almost nothing of any practical value.
-    version: 0.0.1
-    category: Toy Apps
-    maintainer: Bill Armstrong <bill.r.armstrong@gmail.com>
+name: Test App
+description: |
+  A Demo App which does almost nothing of any practical value.
+version: 0.0.1
+category: Toy Apps
+maintainer: Bill Armstrong <bill.r.armstrong@gmail.com>
